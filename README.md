@@ -34,4 +34,4 @@ The app now offers a cleaner design, easier navigation, and improved functionali
 
 
 ## Youtube video link:
-[Watch on YouTube]([https://youtube.com/shorts/5KgrYV4qRrA?feature=share](https://youtube.com/shorts/5KgrYV4qRrA?feature=share)])
+[Watch on YouTube](https://youtube.com/shorts/5KgrYV4qRrA?feature=share](https://youtube.com/shorts/5KgrYV4qRrA?feature=share)
