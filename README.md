@@ -31,3 +31,7 @@ The app now offers a cleaner design, easier navigation, and improved functionali
 - Visual Studio Code  
 - TypeScript  
 - React Native With Expo 
+
+
+## Youtube video link:
+[Watch on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/5KgrYV4qRrA?feature=share))
