@@ -32,7 +32,7 @@ export default function WelcomeScreen({ navigation }: Props) {
         <View style={styles.content}>
           <Text style={styles.heading}>Welcome to Chef Christoffel's Menu App</Text>
           <Text style={styles.subheading}>
-            Where you find dining experience awaits you.
+            Where your find dining experience awaits you.
           </Text>
 
          {/* menu navigation button */}
